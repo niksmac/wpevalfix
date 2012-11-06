@@ -1,0 +1,8 @@
+
+Install
+-------------------
+1. Upload wpevalfix.php to your servers ROOT
+	The path to file will be similar to www.example.com/wpevalfix.php
+2. Execute the file by visiting www.example.com/wpevalfix.php
+
+You're done.
