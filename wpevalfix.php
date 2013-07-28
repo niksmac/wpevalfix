@@ -2,7 +2,7 @@
 /**
  * WP Cleaner (Wordpress Fix)
  * Author: Lightrains Technolabs
- * URL: http://blog.lightrains.com/wordpress/fix-wordpress-malware-script-attack/
+ * URL: http://www.lightrains.com/blog/fix-wordpress-malware-script-attack
  * 
  */
 
